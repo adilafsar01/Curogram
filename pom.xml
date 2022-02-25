@@ -25,7 +25,6 @@
                     <configuration>
                         <suiteXmlFiles>
                             <suiteXmlFile>Runner.xml</suiteXmlFile>
-                            <outputDirectory>${basedir}/target/newsite</outputDirectory>
                         </suiteXmlFiles>
                     </configuration>
                 </plugin>
